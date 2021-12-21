@@ -1,0 +1,9 @@
+a) T(n) = Thetha(n) (Case C)
+
+b) f(n) = -n^2(logn). As f(n) is negative. By Master's Theorem f(n) cannot be negative hence so;ution does not exist.
+
+c) a = 2n. a is not a constant. This solution does not exist.
+
+d)T(n) = Thetha(nlogn) (Case B)
+
+e) T(n) = Thetha(n log7/log3) (Case A) 
